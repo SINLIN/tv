@@ -96,9 +96,6 @@ http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225963/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225985/index.m3u8
 
-#EXTINF:-1 tvg-name="咪咕直播4K"  group-title="个人整理",咪咕直播4K
-http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-
 #EXTINF:-1 tvg-name="斗鱼电影轮播1"  group-title="个人整理",斗鱼电影轮播1
 https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 
@@ -147,8 +144,15 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞台灣台"  group-title="台湾", 寰宇新聞台灣台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 
-#EXTINF:-1 tvg-name="纬来电影"  group-title="台湾", 纬来电影
-https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
+#EXTINF:-1 tvg-name="龙华日韩"  group-title="台湾", 龙华日韩
+https://z88.ubtvfans.com/live/rx1/382/897ab118ac4987dd9fb8743cdef65216/index.m3u8
+
+#EXTINF:-1 tvg-name="龙华偶像"  group-title="台湾", 龙华偶像
+https://z88.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
+
+#EXTINF:-1 tvg-name="龙华戏剧"  group-title="台湾", 龙华戏剧
+https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
+
 
 #EXTINF:-1 tvg-name="纬来日本"  group-title="台湾", 纬来日本
 https://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
@@ -156,3 +160,11 @@ https://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
 #EXTINF:-1 tvg-name="东森戏剧"  group-title="台湾", 东森戏剧
 https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
 
+#EXTINF:-1 tvg-name="龙华电影"  group-title="台湾", 龙华电影
+https://z88.ubtvfans.com/live/rx1/311/1c999026db4aa94fc7b3eab2a9428b59/index.m3u8
+
+#EXTINF:-1 tvg-name="壹电影"  group-title="台湾", 壹电影
+https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
+
+#EXTINF:-1 tvg-name="靖天电影"  group-title="台湾", 靖天电影
+https://z88.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
