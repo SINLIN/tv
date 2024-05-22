@@ -96,6 +96,15 @@ http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225963/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225985/index.m3u8
 
+#EXTINF:-1 tvg-name="咪咕直播4K"  group-title="个人整理",咪咕直播4K
+http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+
+#EXTINF:-1 tvg-name="斗鱼电影轮播1"  group-title="个人整理",斗鱼电影轮播1
+https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+
+#EXTINF:-1 tvg-name="斗鱼电影轮播2"  group-title="个人整理",斗鱼电影轮播2
+https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+
 #EXTINF:-1 tvg-name="華視綜藝頻道"  group-title="台湾", 華視綜藝頻道
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 
@@ -137,3 +146,13 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
 #EXTINF:-1 tvg-name="寰宇新聞台灣台"  group-title="台湾", 寰宇新聞台灣台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+
+#EXTINF:-1 tvg-name="纬来电影"  group-title="台湾", 纬来电影
+https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
+
+#EXTINF:-1 tvg-name="纬来日本"  group-title="台湾", 纬来日本
+https://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
+
+#EXTINF:-1 tvg-name="东森戏剧"  group-title="台湾", 东森戏剧
+https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
+
