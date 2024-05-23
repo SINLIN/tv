@@ -96,6 +96,18 @@ http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225963/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225985/index.m3u8
 
+#EXTINF:-1 tvg-name="浙江电视"  group-title="个人整理",浙江电视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
+#EXTINF:-1 tvg-name="浙江少儿"  group-title="个人整理",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
+#EXTINF:-1 tvg-name="华人电影"  group-title="个人整理",华人电影
+http://allinone.netsite.cc/douyu/122402
+
+#EXTINF:-1 tvg-name="国内惊悚"  group-title="个人整理",国内惊悚
+http://allinone.netsite.cc/douyu/122402
+
 #EXTINF:-1 tvg-name="斗鱼电影轮播1"  group-title="个人整理",斗鱼电影轮播1
 https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 
@@ -159,6 +171,9 @@ https://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
 
 #EXTINF:-1 tvg-name="东森戏剧"  group-title="台湾", 东森戏剧
 https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
+
+#EXTINF:-1 tvg-name="东森电影"  group-title="台湾", 东森电影
+https://z88.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
 
 #EXTINF:-1 tvg-name="龙华电影"  group-title="台湾", 龙华电影
 https://z88.ubtvfans.com/live/rx1/311/1c999026db4aa94fc7b3eab2a9428b59/index.m3u8
