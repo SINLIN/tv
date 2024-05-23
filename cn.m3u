@@ -96,6 +96,11 @@ http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225963/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225985/index.m3u8
 
+
+#EXTINF:-1 tvg-name="福建综合"  group-title="个人整理",福建综合
+rtsp://112.111.36.140/PLTV/88888909/224/3221225772/10000100000000060000000001418882_0.smil?rrsip=220.200.30.136&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=gHASKekTX02sMmAfc6PgtdmXQFPebvCxh3AUeKfxojQ8GMyZzohLsBH5cYKsByndiD39EirrpaVKs72m2p2men%2FLKGO7Atqy1tBcCq1FLhn3TtsqvME4esPsuwF6vq0s0r%2FACPUHbzLaGaLhHyNHpQ%3D%3D%3A20240215154628%2C059491052086%2C175.44.46.48%2C20240215154628%2CBESTV002000000050000000000004988%2C8A39180499B68AE30F59B32DDF19C35F%2C-1%2C1%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND
+
+
 #EXTINF:-1 tvg-name="浙江电视"  group-title="个人整理",浙江电视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
@@ -106,7 +111,13 @@ http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 http://allinone.netsite.cc/douyu/122402
 
 #EXTINF:-1 tvg-name="国内惊悚"  group-title="个人整理",国内惊悚
-http://allinone.netsite.cc/douyu/122402
+http://allinone.netsite.cc/douyu/218859
+
+#EXTINF:-1 tvg-name="国外惊悚"  group-title="个人整理",国外惊悚
+http://allinone.netsite.cc/douyu/96577
+
+#EXTINF:-1 tvg-name="榜单电影"  group-title="个人整理",榜单电影
+http://allinone.netsite.cc/douyu/8770422
 
 #EXTINF:-1 tvg-name="斗鱼电影轮播1"  group-title="个人整理",斗鱼电影轮播1
 https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
