@@ -176,12 +176,23 @@ https://z88.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u
 #EXTINF:-1 tvg-name="龙华戏剧"  group-title="台湾", 龙华戏剧
 https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
 
+#EXTINF:-1 tvg-name="八大综合"  group-title="台湾", 八大综合
+https://z88.ubtvfans.com/live/rx1/2286/9e0b6a5f3fd84c07dd7288d97fefe1be/index.m3u8
 
 #EXTINF:-1 tvg-name="纬来日本"  group-title="台湾", 纬来日本
 https://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
 
+#EXTINF:-1 tvg-name="纬来综合"  group-title="台湾", 纬来综合
+https://z88.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
+
 #EXTINF:-1 tvg-name="东森戏剧"  group-title="台湾", 东森戏剧
 https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
+
+#EXTINF:-1 tvg-name="东森幼幼"  group-title="台湾", 东森幼幼
+https://z88.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
+
+#EXTINF:-1 tvg-name="纬来电影"  group-title="台湾", 纬来电影
+https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
 
 #EXTINF:-1 tvg-name="东森电影"  group-title="台湾", 东森电影
 https://z88.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
@@ -194,3 +205,13 @@ https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3
 
 #EXTINF:-1 tvg-name="靖天电影"  group-title="台湾", 靖天电影
 https://z88.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
+
+#EXTINF:-1 tvg-name="靖洋卡通"  group-title="台湾", 靖洋卡通
+https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
+
+#EXTINF:-1 tvg-name="i-Fun動漫"  group-title="台湾", i-Fun動漫
+https://z88.ubtvfans.com/live/rx2/1127/fb9c792790b1ed7dd6ccccbd5895b458/index.m3u8
+
+#EXTINF:-1 tvg-name="星空卫视"  group-title="台湾", 星空卫视
+https://z88.ubtvfans.com/live/rx1/56/58a02d1ccbf9a135d9f58c4ad3ce6e04/index.m3u8
+
